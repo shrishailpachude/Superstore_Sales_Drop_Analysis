@@ -2,6 +2,35 @@
 
 
 
+📊 Project Preview
+
+
+
+
+
+🔹 Sales Overview Dashboard
+
+
+<img width="1361" height="778" alt="Screenshot 2026-04-09 122522" src="https://github.com/user-attachments/assets/0cd325b3-d98b-4e3b-b4e9-5e2c563c2488" />
+
+
+
+
+🔹 Category Analysis
+
+
+
+<img width="1353" height="758" alt="Screenshot 2026-04-09 122826" src="https://github.com/user-attachments/assets/919387c3-64a1-4a06-8b7e-cc380ec746a6" />
+
+
+🔹 Regional Analysis
+
+<img width="1341" height="747" alt="Screenshot 2026-04-09 122855" src="https://github.com/user-attachments/assets/9f87f4f6-01ef-4182-9c63-d866fbc13532" />
+
+
+
+
+
 
 📘 Introduction
 
